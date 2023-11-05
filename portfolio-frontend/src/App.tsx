@@ -1,13 +1,13 @@
 
 import './App.css'
-import AboutMe from './components/AboutMe'
-import NarvBar from './components/NavBar'
-import Home from './components/Home'
-import MyProjects from './components/MyProjects'
-import ServicesImAmProviding from './components/ServicesImAmProviding'
+import AboutMe from './pages/AboutMe'
+import NarvBar from './pages/navbar/NavBar'
+import Home from './pages/Home'
+import MyProjects from './pages/MyProjects'
+import ServicesImAmProviding from './pages/ServicesImAmProviding'
 import { Routes, Route } from 'react-router-dom';
-import About from './components/About'
-import Footer from './components/Footer'
+import About from './pages/About'
+import Footer from './pages/Footer'
 
 function App() {
 

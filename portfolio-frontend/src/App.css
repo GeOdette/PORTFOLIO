@@ -9,7 +9,7 @@ html, body,
   height: 100%;
   width: 100%;
   margin: 0;
-  background-color: #F4F8FD;
+  background-color: #F6F6F6;
 }
 .App{
   overflow: hidden;
@@ -93,18 +93,6 @@ section{
 
 .logo{
   filter: hue-rotate("120deg");
-}
-.header-container{
-  position: fixed;
-  top: 0;
-
-  height: 6vh;
-  width: 100%;
-  text-align: center;
-  padding: 25px;
-
-
-  
 }
 
 .about-me-heading{

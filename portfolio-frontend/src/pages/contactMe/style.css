@@ -1,0 +1,21 @@
+.contact-me{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 30px;
+}
+
+.address-sect{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+
+Button{
+    width: 100px;
+    height: 40px;
+}
+
+p.small-num{
+    
+}
